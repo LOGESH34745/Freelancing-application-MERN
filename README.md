@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Freelance App
 
 This full-stack MERN freelance job marketplace application offers a comprehensive solution for connecting freelancers with job opportunities. Built on the MERN stack (MongoDB, Express.js, React.js, Node.js), it combines the power of these technologies to deliver a robust and scalable platform.
@@ -38,3 +39,6 @@ This full-stack MERN freelance job marketplace application revolutionizes the wa
 - Setup mongodb database and add url to `.env` file configuration
 - Run both the applications simultaneously: client `npm run dev` and server `npm run dev`
 - View the application on the browser using `http://localhost:5173`
+=======
+# Freelancing-application-MERN
+>>>>>>> 9abbd44d6f5c58e825a98aa808edbe8b07344044
