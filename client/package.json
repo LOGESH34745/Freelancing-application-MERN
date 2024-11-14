@@ -2,7 +2,6 @@
   "name": "freelance-app",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,5 +26,6 @@
     "eslint": "^8.33.0",
     "eslint-plugin-react": "^7.32.2",
     "vite": "^4.0.0"
-  }
+  },
+  "type": "module"
 }
